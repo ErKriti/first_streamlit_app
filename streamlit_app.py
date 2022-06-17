@@ -7,7 +7,7 @@ streamlit.text('omega 3 & Blueberry')
 streamlit.text('kale, spinach and rocket smoothie')
 streamlit.text('hard-boiled free range egg')
 
-streamlit.title('My Mom's New Healthy Diner')
+streamlit.title("My Mom's New Healthy Diner")
 
 streamlit.header('Breakfast Favorites')
 streamlit.text('omega 3 & Blueberry')
